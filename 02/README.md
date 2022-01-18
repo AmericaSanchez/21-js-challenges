@@ -1,6 +1,6 @@
 # Ayuda a el elfo a tener listos los regalos 
 ***
-![Node](https://img.shields.io/badge/node-%3E%3D%208.x-brightgreen.svg)
+  ![Node](https://img.shields.io/badge/node-%3E%3D%208.x-brightgreen.svg)
 
 ### Pre requisitos 
 Tener instaldo > NodeJS 8.x and NPM.
@@ -19,7 +19,7 @@ const carta = 'bici coche balón _playstation bici coche peluche'
 Al ejecutar el método debería devolver lo siguiente:
 
 ```javascript
-onst regalos = listGifts(carta)
+const regalos = listGifts(carta)
 
 console.log(regalos)
 /*
